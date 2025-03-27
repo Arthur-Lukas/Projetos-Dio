@@ -1,4 +1,4 @@
-let exp = 8500
+let exp = 5000
 let classe = ["ferro", "bronze", "prata", "ouro", "platina", "diamante","desafiante","lendário"]
 
 if(exp<=1000){
