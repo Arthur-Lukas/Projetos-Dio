@@ -1,4 +1,5 @@
 class gato{
+    
     constructor(nome, cor, raca, tamanho){
         this.nome = nome
         this.cor = cor
